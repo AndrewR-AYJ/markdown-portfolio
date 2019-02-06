@@ -1,4 +1,4 @@
-!Things I like doing:
+Things I like doing:
 - Watching anime
 - Playing video games
 - Coding
