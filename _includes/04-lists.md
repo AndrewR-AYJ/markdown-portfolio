@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+!Things I like doing:
+- Watching anime
+- Playing video games
+- Coding
+- Playing instruments
+- Making songs
